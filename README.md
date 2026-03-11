@@ -5,6 +5,8 @@
 [![pandas](https://img.shields.io/badge/pandas-Pipeline-green)](https://pandas.pydata.org)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 
+<img width="3147" height="3914" alt="image" src="https://github.com/user-attachments/assets/88156c6c-873a-4a1e-8c27-ad24297f674e" />
+
 ---
 
 ## 📌 Project Overview
